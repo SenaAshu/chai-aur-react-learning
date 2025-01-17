@@ -3,5 +3,7 @@ import Footer from "./Footer/Footer";
 import Container from "./Container/Container";
 import Logo from "./Logo";
 import LogouBtn from "./Header/LogouBtn";
+import Button from "./Button"
+import Input from "./Input"
 
-export {Header,Footer,Container,Logo,LogouBtn};
+export {Header,Footer,Container,Logo,LogouBtn,Input,Button};
