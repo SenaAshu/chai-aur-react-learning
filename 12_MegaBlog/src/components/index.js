@@ -6,6 +6,12 @@ import LogouBtn from "./Header/LogouBtn";
 import Button from "./Button"
 import Input from "./Input"
 import RTE from "./RTE"
-import select from "./select"
+import Select from "./Select"
+import Signup from "./Signup";
+import Login from "./Login";
+import PostForm from "./Post-Form/PostForm";
+import PostCard from "./PostCard";
+import AuthLayout from "./AuthLayout"
 
-export {Header,Footer,Container,Logo,LogouBtn,Input,Button,RTE,select};
+
+export {Header,Footer,Container,Logo,LogouBtn,Input,Button,RTE,Select,Signup,Login,PostForm,PostCard,AuthLayout};

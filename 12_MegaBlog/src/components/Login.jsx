@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import { useDispatch, useDispatch } from "react-redux";
+import { useDispatch} from "react-redux";
 import { Link, useNavigate } from "react-router-dom";
 import { login as authLogin } from "../store/AuthSlice";
 import authservice from "../appwrite/auth";
